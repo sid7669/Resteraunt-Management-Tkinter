@@ -1,0 +1,37 @@
+Custmor Id		  Customer Name		  Accomodation		  Phone Number		  Date		  Time
+Custmor Id		  Customer Name		  Accomodation		  Phone Number		  Date		  Time
+Custmor Id		  Customer Name		  Accomodation		  Phone Number		  Date		  Time
+Custmor Id		  Customer Name		  Accomodation		  Phone Number		  Date		  Time
+Custmor Id		  Customer Name		  Accomodation		  Phone Number		  Date		  Time
+Custmor Id		  Customer Name		  Accomodation		  Phone Number		  Date		  Time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ITEM	    QUANTITY	 PRICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Sabji          	1      	210
+Roti           	1      	20
+23027.599999999999998257.6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ITEM	    QUANTITY	 PRICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Sabji          	1      	210
+Roti           	1      	20
+23027.599999999999998257.6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ITEM	    QUANTITY	 PRICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Sabji          	1      	210
+Roti           	1      	20
+23027.599999999999998257.6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ITEM	    QUANTITY	 PRICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Sabji          	1      	210
+Roti           	1      	20
+23027.599999999999998257.6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ITEM	    QUANTITY	 PRICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Sabji          	1      	210
+Roti           	1      	20
+23027.599999999999998257.6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ITEM	    QUANTITY	 PRICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Sabji          	1      	210
+Roti           	1      	20
+23027.599999999999998257.6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ITEM	    QUANTITY	 PRICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Roti           	10      	200
+Sabji          	1      	210
+Shikanji       	2      	100
+Jal-Jeera      	4      	200
+Oreo           	1      	470
+1180141.61321.6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ITEM	    QUANTITY	 PRICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Roti           	10      	200
+Sabji          	1      	210
+Shikanji       	2      	100
+Jal-Jeera      	4      	200
+Oreo           	1      	470
+1180141.61321.6
